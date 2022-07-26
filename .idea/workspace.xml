@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38041ed1-e006-4c34-8d98-88ab921288ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OrderAgnosticBinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BinarySearchAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchAlgorithm.java" afterDir="false" />
     </list>
@@ -38,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinarySearchAlgorithm">
+  <component name="RunManager" selected="Application.OrderAgnosticBinarySearch">
     <configuration name="BinarySearchAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchAlgorithm" />
       <module name="DSA" />
@@ -60,8 +61,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderAgnosticBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrderAgnosticBinarySearch" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrderAgnosticBinarySearch" />
         <item itemvalue="Application.BinarySearchAlgorithm" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LinearSearchAlgorithm" />
