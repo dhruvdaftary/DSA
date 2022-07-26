@@ -23,9 +23,10 @@ public class BinarySearchAlgorithm {
     static int BinarySearch(int[] arr, int target){
         int start = 0;
         int end = arr.length-1;
-        int size = 1;
+        int size = 2;
         while (size>1){
-            size = (start+end)/2;
+            size = start+((end-start)/2);
+//            size = (start+end)/2;
             if(arr[size] == target){
                 return size;
             }
