@@ -20,7 +20,7 @@ public class OrderAgnosticBinarySearch {
         System.out.println(Arrays.toString(arr));
         if(arr[0]>arr[arr.length-1]){
             System.out.println("The target element is present at index " + BinarySearchDescending(arr,target));
-
+//
         } else if ((arr[0]<arr[arr.length-1])) {
             System.out.println("The target element is present at index " + BinarySearchAscending(arr,target));
         }
@@ -39,7 +39,7 @@ public class OrderAgnosticBinarySearch {
             else if(arr[size]>target){
                 end = size-1;
             }
-            else if(arr[size/2]<target){
+            else if(arr[size]<target){
                 start = size+1;
             }
         }
@@ -56,10 +56,10 @@ public class OrderAgnosticBinarySearch {
                 return size;
             }
             else if(arr[size]<target){
-                end = size;
+                end = size-1;
             }
-            else if(arr[size/2]>target){
-                start = size;
+            else if(arr[size]>target){
+                start = size+1;
             }
         }
         return -1;

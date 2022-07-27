@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38041ed1-e006-4c34-8d98-88ab921288ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OrderAgnosticBinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BinarySearchAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrderAgnosticBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrderAgnosticBinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +72,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.OrderAgnosticBinarySearch" />
-        <item itemvalue="Application.BinarySearchAlgorithm" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BinarySearchAlgorithm" />
         <item itemvalue="Application.LinearSearchAlgorithm" />
       </list>
     </recent_temporary>
@@ -98,6 +99,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OrderAgnosticBinarySearch.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DSA$LinearSearchAlgorithm.ic" NAME="LinearSearchAlgorithm Coverage Results" MODIFIED="1658564490514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

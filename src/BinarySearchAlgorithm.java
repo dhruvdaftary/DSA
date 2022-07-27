@@ -31,10 +31,10 @@ public class BinarySearchAlgorithm {
                 return size;
             }
             else if(arr[size]>target){
-                end = size;
+                end = size-1;
             }
-            else if(arr[size/2]<target){
-                start = size;
+            else if(arr[size]<target){
+                start = size+1;
             }
         }
         return -1;
