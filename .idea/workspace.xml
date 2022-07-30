@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38041ed1-e006-4c34-8d98-88ab921288ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BasicDataStructuresArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicDataStructures/BasicDataStructuresLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicDataStructuresArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicDataStructures/BasicDataStructuresArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +39,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BasicDataStructuresArray">
-    <configuration name="BasicDataStructuresArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicDataStructuresArray" />
+  <component name="RunManager" selected="Application.BasicDataStructures.BasicDataStructuresArray">
+    <configuration name="BasicDataStructures.BasicDataStructuresArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicDataStructures.BasicDataStructuresArray" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,7 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BasicDataStructuresArray" />
+        <item itemvalue="Application.BasicDataStructures.BasicDataStructuresArray" />
         <item itemvalue="Application.BinarySearchCharacter" />
         <item itemvalue="Application.OrderAgnosticBinarySearch" />
         <item itemvalue="Application.Main" />
