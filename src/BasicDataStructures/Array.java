@@ -1,8 +1,9 @@
 package BasicDataStructures;
 import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.Scanner;
 
-public class BasicDataStructuresArray {
+public class Array {
     public static void main(String[] args) {
         //Array literal
         int[] newarray = new int[10]; //initializing a new array of type integer and length 10
@@ -16,6 +17,7 @@ public class BasicDataStructuresArray {
         }
         System.out.println("Final array");
         System.out.println(Arrays.toString(newarray));//printing final array
+
 
     }
 }
