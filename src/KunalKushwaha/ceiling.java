@@ -13,15 +13,18 @@ public class ceiling {
             System.out.print("Enter the element at position " + i +": ");
             arr[i] = sc.nextInt();
         }
+        System.out.print("Enter the element to be searched: ");
+        int target = sc.nextInt();
+        System.out.println("The ceiling of the element is "+ ceiling(arr,target));
     }
-    public int ceiling(int[] arr, int target){
+    public static int ceiling(int[] arr, int target){
         int start = 0;
         int end = arr.length-1;
         while (start<=end){
 //            size = start+((end-start)/2);
             int size = (start+end)/2;
             if(arr[size] == target){
-                return size;
+                return arr[size];
             }
             else if(arr[size]>target){
                 end = size-1;
@@ -30,6 +33,6 @@ public class ceiling {
                 start = size+1;
             }
         }
-        return -1;
+        return arr[start];
     }
 }
