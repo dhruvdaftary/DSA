@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38041ed1-e006-4c34-8d98-88ab921288ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SearchAlgorithms/InfiniteArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KunalKushwaha/ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KunalKushwaha/ceiling.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +39,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ceiling">
-    <configuration name="BDSLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicDataStructures.BDSLinkedList" />
+  <component name="RunManager" selected="Application.com.company.Main">
+    <configuration name="BinarySearchAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchAlgorithms.BinarySearchAlgorithm" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicDataStructures.*" />
+          <option name="PATTERN" value="SearchAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchAlgorithms.BinarySearchAlgorithm" />
+    <configuration name="InfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchAlgorithms.InfiniteArray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -73,13 +73,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchAlgorithms.BinarySearchCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchAlgorithms.BinarySearchCharacter" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ceiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KunalKushwaha.ceiling" />
       <module name="DSA" />
@@ -93,13 +86,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.company.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.company.Main" />
+        <item itemvalue="Application.InfiniteArray" />
         <item itemvalue="Application.ceiling" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BinarySearchAlgorithm" />
-        <item itemvalue="Application.BDSLinkedList" />
-        <item itemvalue="Application.SearchAlgorithms.BinarySearchCharacter" />
       </list>
     </recent_temporary>
   </component>
